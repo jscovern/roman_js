@@ -25,6 +25,7 @@ MAP_TENS = {
 }
 
 MAP_HUNDREDS = {
+	0 => "",
 	1 => 'C',
 	2 => 'CC',
 	3 => 'CCC',
